@@ -1,16 +1,21 @@
-## Hi there 👋
+## Boas Vindas ao meu Perfil⤴️👋
 
-<!--
-**AnaCamila-2024/AnaCamila-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é AnaCamila-2024
+  
+- Eu estou estudando na {Alura} (https://www.alura.com.br)
+- Estou me desenvovendo na linguagem javascript
+- Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você entrar em contato comigo📧
+
+  anacamilamagda@gmail.com
+  
+  @azevedoanacamila
+
+  
+
+  
+!{}( ![image](https://github.com/user-attachments/assets/69cfb558-0131-47a1-8fb2-d8b2b7e0ff42)
+ 
+  
